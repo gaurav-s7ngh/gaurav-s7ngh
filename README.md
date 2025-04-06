@@ -1,9 +1,15 @@
-## Hi there 👋
+## HI Guyss👋
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@grav/30-nites-of-code)  
+  ![@grav #30NitesOfCode](https://www.codedex.io/api/petStatus?user=grav)
+
+  It's Me! I'm Gaurav and im currently learning Java, SQL and I have somewhat good knowledge about C but im still willing to learn a LOT more as i know i'm just a beginner. Feel Free to reach out to me through my socials.
 
 <!--
 **gaurav-s7ngh/gaurav-s7ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
