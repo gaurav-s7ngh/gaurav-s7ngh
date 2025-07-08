@@ -1,9 +1,3 @@
-## HI Guyss👋
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@grav/30-nites-of-code)  
-  ![@grav #30NitesOfCode](https://www.codedex.io/api/petStatus?user=grav)
-
-  It's Me! I'm Gaurav and im currently learning Java, SQL and I have somewhat good knowledge about C but im still willing to learn a LOT more as i know i'm just a beginner. Feel Free to reach out to me through my socials.
   <h1 align="center">Hi 👋, I'm Gaurav Singh Guru</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -36,6 +30,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-s7ngh&" alt="gaurav-s7ngh" /></p>
 
 
+## #30NitesOfCode Progress:
+  [Check out my progress!](https://www.codedex.io/@grav/30-nites-of-code)  
+  ![@grav #30NitesOfCode](https://www.codedex.io/api/petStatus?user=grav)
+
+  
 <!--
 **gaurav-s7ngh/gaurav-s7ngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
