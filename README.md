@@ -30,7 +30,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-s7ngh&" alt="gaurav-s7ngh" /></p>
 
 
-## #30NitesOfCode Progress:
+## #30NitesOfCode Progress :
   [Check out my progress!](https://www.codedex.io/@grav/30-nites-of-code)  
   ![@grav #30NitesOfCode](https://www.codedex.io/api/petStatus?user=grav)
 
